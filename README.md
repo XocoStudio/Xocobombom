@@ -1,7 +1,7 @@
 
 # Xocoboom 
 
-Xocoboom  es una aplicación desarrollada en Python con PyQt5 que simula un temporizador de estilo "hacker" con una interfaz circular, efectos visuales y una animación final. Es ideal para presentaciones, efectos visuales o simplemente como una herramienta divertida.
+Xocoboom  es una aplicación desarrollada en Python que simula un temporizador con una interfaz circular, efectos visuales y una animación final. Es ideal para presentaciones, efectos visuales o simplemente como una herramienta divertida.
 
 ## Características
 - **Interfaz circular y sin bordes.**
