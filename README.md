@@ -15,7 +15,7 @@ Xocoboom  es una aplicación desarrollada en Python que simula un temporizador c
 
 ## Instalación y Ejecución
  Descarga el ejecutable desde el siguiente enlace:
-   [Descargar Hacker Timer](https://drive.google.com/file/d/1CknZnJKnQF4jjuJu5sSwSRzGuq4uelKR/view?usp=sharing)
+   [Descargar Xocoboom](https://drive.google.com/file/d/1CknZnJKnQF4jjuJu5sSwSRzGuq4uelKR/view?usp=sharing)
 
 
 ```
